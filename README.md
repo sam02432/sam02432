@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sam02432
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning the basics of python
 
